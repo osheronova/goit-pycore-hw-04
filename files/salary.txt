@@ -1,6 +1,8 @@
-Alex Korp,3000
-Nikita Borisenko,2000
+Alex Korp3000
+Nikita Borisenko,2000,bbb
 Sitarama Raju,1000
 Sasha,5000
 Alex, 4500
 Anton,6000
+Pasha, bbb
+Gosha, 500
